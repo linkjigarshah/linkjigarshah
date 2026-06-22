@@ -12,7 +12,3 @@ I love Digital World!
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=linkjigarshah&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=linkjigarshah&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
